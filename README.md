@@ -1,6 +1,6 @@
 # Project background
 
-Apex Retail Solutions Inc. is a global e-commerce and logistics aggregator. The company manages a vast catalog ranging from Furniture to Technology across four major international regions.
+Superstore Sales Inc. is a global e-commerce and logistics aggregator. The company manages a vast catalog ranging from Furniture to Technology across four major international regions.
 
 While the 2014–2017 period showed strong top-line sales growth, the company faced a "Profitability Paradox". Aggressive market expansion led to several critical pain points:
 
