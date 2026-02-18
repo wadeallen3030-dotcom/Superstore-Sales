@@ -39,7 +39,6 @@ Profit does not have significant increase when revenue goes up, indicating the d
   </tr>
 </table>
 
-
 - Products with over 40% discount are losing more profit, among all binders is losing $43K, tables is losing $35K and machines is losing $32K.
 - By changing the discount tier, we can start to see profit increasement. If we lower the discount tier to all products that are losing profit by 15%, we can recover around $124K profit.
 - Profit margin reached its peak at the begining of 2017 with 21%. This needs to be further looked into of what different strategy was taken in that time.
