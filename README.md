@@ -67,7 +67,7 @@ Profit does not have significant increase when revenue goes up, indicating the d
 # Recommendations
 
 - To counter the profitability leak, it's recommended that the general discount tier should be lowerd by 15% for products that are losing profit, which could recover around $124K profit.
-- The shipping process and quality assurance to West Region with Standard class needs to be investigated as this where the most refunds are taking place, specifically in technology category as it's losing most revenue.
+- The shipping process and quality assurance to Central Region with Standard class needs to be investigated as this where the most refunds are taking place, specifically in technology category as it's losing most revenue.
 - The general strategy in Central region needs to be revisted since most products are losing profits with low revenue, specifically in San Antorio and Houston city.
 
 
